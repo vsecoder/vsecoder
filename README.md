@@ -1,6 +1,6 @@
-# Hello
+# Hello,
 
-Why did you give up my profile?
+What do you want to see here?
 
 If you really want to see something, visit my [website](https://vsecoder.dev/) and the tabs below.
 
